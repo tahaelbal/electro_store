@@ -9,7 +9,7 @@
                  <div class="information_f">
                    <p><strong>ADDRESS:</strong> 28 White tower, Street Name New York City, USA</p>
                    <p><strong>TELEPHONE:</strong> +212 625 383 772</p>
-                   <p><strong>EMAIL:</strong> electrostore@gmail.com</p>
+                   <p><strong>EMAIL:</strong> kolchistore@gmail.com</p>
                  </div>
               </div>
           </div>
@@ -62,5 +62,5 @@
     </div>
 </footer>
 <div class="cpy_">
-    <p class="mx-auto">© 2024 All Rights Reserved<br></p>
+    <p class="mx-auto">© 2023 All Rights Reserved<br></p>
 </div>

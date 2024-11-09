@@ -30,9 +30,6 @@
          @include('home.slider')
          <!-- end slider section -->
       </div>
-      
-      
-      
 
       <!-- why section -->
       @include('home.why')
@@ -51,6 +48,48 @@
       @include('home.footer')
       <!-- footer end -->
       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       <!-- jQery -->
       <script src="Home/js/jquery-3.4.1.min.js"></script>
       <!-- popper js -->
